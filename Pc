@@ -1,0 +1,9 @@
+jeg skal vise fram drifts proskjekt
+
+Mini-bedrift med domeneserver og klientmaskiner
+
+#Å sette opp et fungerende lite nettverk for en fiktiv bedrift, 
+der brukere kan logge seg på via en domeneserver (Active Directory), 
+lagre filer trygt og få tilgang til delte ressurser
+
+
